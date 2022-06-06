@@ -3,3 +3,34 @@ section {
     background-color: #fcf9ee;
     border: solid black 1px;
 }
+
+.hero {
+    background-color: aliceblue;
+    height: 100vh;
+    color: black;
+    font-size: 40px;
+}
+
+footer {
+    height: 500px;
+
+    background-color: black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: space-around;
+    font-size: 30px;
+}
+
+li {
+    /* width: 200px; */
+    text-decoration: none;
+}
