@@ -14,9 +14,11 @@ section {
 }
 
 footer {
-    height: 500px;
-
-    background-color: black;
+    background-color: rgb(221, 255, 240);
+    color: black;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 nav {
@@ -150,4 +152,9 @@ p {
 hr {
     margin-left: 20px;
     margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
