@@ -31,6 +31,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Installation
 
 In order to view the homepage for Horiseon, you will need to visit the live deployment URL.
+https://ajmccraw.github.io/portfolio/
 
 ## Usage
 
